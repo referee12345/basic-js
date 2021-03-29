@@ -1,3 +1,4 @@
+
 const CustomError = require("../extensions/custom-error");
 
 module.exports = class DepthCalculator {
@@ -9,4 +10,4 @@ module.exports = class DepthCalculator {
       }
     }
     return depth
-}
+}}
